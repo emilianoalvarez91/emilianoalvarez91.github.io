@@ -1,0 +1,25 @@
+.full-width {
+  /*height: auto;*/
+  /*width: auto;*/
+  /*min-height: 80vw;*/
+  /*max-height: 1250px;*/
+  /*width: 100vw;*/
+  /*margin-right: -50vw;*/
+  /*right: 50%;*/
+  /*position: relative;*/
+  /*object-fit: fill;*/
+  /*overflow: visible;*/
+  /*display: block;*/
+}
+
+.unselectable {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.undraggable {
+  pointer-events: none;
+}
+
